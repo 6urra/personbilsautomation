@@ -1,0 +1,5 @@
+pdflatex litteraturprojekt.tex 
+bibtex litteraturprojekt.aux
+pdflatex litteraturprojekt.tex
+pdflatex litteraturprojekt.tex 
+gnome-open litteraturprojekt.pdf 
